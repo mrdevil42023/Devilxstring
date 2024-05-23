@@ -20,14 +20,14 @@
 
 ### 🚀 Heroku Deployment
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sahildesai07/string-session-generator)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrdevil42023/Devilxstring)
 
 <details>
 <summary><h3>
 <b> 🚀 VPS Deployment </b>
 </h3></summary>
 
-- Get your [Necessary Variables](https://github.com/sahildesai07/SessionGenerator/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/mrdevil42023/Devilxstring/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install required packages by :
